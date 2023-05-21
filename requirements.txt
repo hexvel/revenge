@@ -1,0 +1,10 @@
+vk_api
+pymysql
+speedtest
+pyqiwip2p
+colorama
+loguru
+bs4
+gtts
+lyricsgenius
+pillow
